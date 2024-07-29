@@ -11,9 +11,6 @@
   <a href="https://github.com/ishidad2/ishidad2/">
     <img src="https://komarev.com/ghpvc/?username=ishidad2" alt="ishidad2" />
   </a>
-  <a href="http://twitter.com/ishidad2">
-    <img height="20" src="https://img.shields.io/twitter/follow/ishidad2?label=Twitter&logo=twitter&style=flat" />
-  </a>
   <a href="https://github.com/ishidad2">
     <img height="20" src="https://img.shields.io/github/followers/ishidad2?label=follow&logo=github&style=flat" />
   </a>
